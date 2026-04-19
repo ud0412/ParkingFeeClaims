@@ -1,0 +1,6 @@
+{
+  "name": "Warm Parking Claims",
+  "description": "A flat, warm-themed parking fee claim system with receipt OCR and duplicate checking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
