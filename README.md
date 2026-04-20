@@ -19,7 +19,7 @@ View your app in AI Studio: https://ai.studio/apps/a9227f9a-b68c-47d1-a90f-68635
 3. Run the app:
    `npm run dev`
 
-## Run Locally
+## 시스템 설명
 
 주차비 청구 시스템 입니다.
 
